@@ -3,3 +3,4 @@ fastapi
 transformers
 pillow
 torch
+python-multipart
