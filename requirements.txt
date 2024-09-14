@@ -2,3 +2,4 @@ uvicorn
 fastapi
 transformers
 pillow
+torch
